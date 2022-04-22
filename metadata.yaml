@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '8637'
     url: http://www.gutenberg.org/2009/agents/8637
     wikipedia: https://en.wikipedia.org/wiki/Charles_M._Relyea
+covers:
+- cover_type: archival
+  image_path: 67805-h/images/cover.jpg
 creator:
   author:
     agent_name: Barbour, Ralph Henry
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2067
     wikipedia: https://en.wikipedia.org/wiki/Ralph_Henry_Barbour
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67805#Rivals-for-the-Team-A-Story-of-School-Life-and-Football
 gutenberg_issued: '2022-04-10'
 identifiers:
   gutenberg: '67805'
